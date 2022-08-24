@@ -62,12 +62,12 @@
               Evecloud is a simple yet powerful platform that utilises a technique
               which is proven to better learn and retain information. It is based
               on
-              <span v-html="raw9bmy"></span>
+              <span v-html="rawqdap"></span>
             </span>
             <span class="mobile-text05">spaced repetition</span>
             <span>
               and
-              <span v-html="rawymfd"></span>
+              <span v-html="raw5lw5"></span>
             </span>
             <span class="mobile-text07">active recall</span>
             <span class="mobile-text08">.</span>
@@ -82,12 +82,12 @@
               Evecloud is a simple yet powerful platform that utilises a technique
               which is proven to better learn and retain information. It is based
               on
-              <span v-html="rawzofv"></span>
+              <span v-html="raw71sc"></span>
             </span>
             <span class="mobile-text11">spaced repetition</span>
             <span>
               and
-              <span v-html="rawqctv"></span>
+              <span v-html="rawg16d"></span>
             </span>
             <span class="mobile-text13">active recall</span>
             <span class="mobile-text14">.</span>
@@ -120,7 +120,7 @@
             <br />
             <span>
               © 2021-2022 Martin Jakobsson | Mail: hi@evecloud.io
-              <span v-html="rawxjmj"></span>
+              <span v-html="rawvjwg"></span>
             </span>
           </span>
         </div>
@@ -140,11 +140,11 @@ export default {
 
   data() {
     return {
-      raw9bmy: ' ',
-      rawymfd: ' ',
-      rawzofv: ' ',
-      rawqctv: ' ',
-      rawxjmj: ' ',
+      rawqdap: ' ',
+      raw5lw5: ' ',
+      raw71sc: ' ',
+      rawg16d: ' ',
+      rawvjwg: ' ',
     }
   },
 
